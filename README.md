@@ -1,2 +1,0 @@
-# SpaceCatFilter
-Created with CodeSandbox
